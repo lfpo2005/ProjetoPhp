@@ -1,4 +1,4 @@
 <?php
-define('INCLUDE_PATH','http://localhost/CursoPhp/');
+define('INCLUDE_PATH','http://localhost/ProjetoPhp/');
 
 ?>
