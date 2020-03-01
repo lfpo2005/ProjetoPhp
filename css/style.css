@@ -34,8 +34,10 @@ img{
 }
 /** Estilização **/
 html,body{
-   /* overflow-x: hidden;*/
-    height: 100%;
+       height: 100%;
+}
+body{
+     overflow-x: hidden;
 }
 input{
     border: 0;
