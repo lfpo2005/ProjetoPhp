@@ -10,8 +10,8 @@
     <input type="submit" name="acao" value="Cadastrar!">
     </form>
 </div><!--center-->
-</section><!--banner-principal-->
-
+<div class="bullets"> </div><!--bullets-->
+</section><!--banner-container-->
 <section class="descricao-autor">
     <div class="center">
     <h1>Portfólio Fernando Oliveira</h1>

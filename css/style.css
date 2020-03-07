@@ -293,8 +293,27 @@ section.erro-404 {
 #map{
     width: 100%;
     height: 400px;
-}   
-
+} 
+.bullets{
+    
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 4;
+}
+.bullets span{
+    margin: 0 10px;
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #444;
+}
+.bullets span.active-slider{
+    background: white;
+}
 @media screen and (max-width: 768px){
     img{
         float: none !important;
