@@ -29,7 +29,7 @@
          break;
     }
 ?>
-<?php new Email(); ?>
+<?php //new Email(); ?>
 
 <header>
     <div class="center">
